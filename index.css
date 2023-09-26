@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: last baseline;
     min-height: 100vh;
-    /*background-image: yellow; /*linear-gradient(to right, red , yellow);*/
+    background-image: linear-gradient(to right, red , yellow);
     position: sticky;
 
 }
